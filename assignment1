@@ -1,0 +1,45 @@
+sno=int(input("enter the student number"))
+sname=(input("enter the student name"))
+sgroup=(input("enter the student group"))
+
+s1=int(input("enter the telugu marks"))
+
+s2= int(input("enter the english marks"))
+
+s3=int(input("enter the java marks"))
+
+s4=int(input("enter the os marks"))
+
+s5=int(input("enter the afm marks"
+
+s6=int(input("enter the crt marks"))
+
+if s1>=35 and s2>=35 and s3>=35 and S4>=35 and S5>=35 and S6>=35:
+
+   print('student passed')
+
+else: 
+  print('student failed') 
+
+Output:
+
+
+enter the student number 12
+
+enter the student name  sandeep
+
+enter the student group bca
+
+enter the telugu marks 68
+
+enter the english marks 45
+
+enter the java marks63
+
+enter the os marks 70
+
+enter the afm marks 64
+
+enter the crt marks 40
+
+student passed
